@@ -94,15 +94,11 @@ This endeavour seamlessly merged theoretical insights with practical application
 </table>
 
 ## Skills
-
-- 🔩 Mechanical Design and Analysis
-- 🛠️ CAD/CAM and 3D Modeling
-- 🔬 Materials Science and Engineering
-- 🤖 Robotics and Automation
+- 🛠️ AutoCAD, Fusion 360, MATLAB
 - 💻 Programming (C++, Python)
 
 ## Contact Me
 
 📧 Email: [aryasen.gupta.civ21@iitbhu.ac.in](mailto:aryasen.gupta.civ21@iitbhu.ac.in)
-🔗 LinkedIn: [linkedin.com/in/anshuman-chaurasia/](linkedin.com/in/anshuman-chaurasia/)
-📞 Phone: [6392814797](tel:6392814797)
+🔗 LinkedIn: [https://www.linkedin.com/in/arya-sen-g-10650a194/]
+📞 Phone: [6392814797](tel:+91-6392814797)
