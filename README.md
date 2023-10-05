@@ -21,7 +21,7 @@ My journey in the pursuit of knowledge and excellence has brought me to the este
 
 ---
 
-### Development of driving cycle and estimation of associated emmissions
+### DEVELOPMENT OF REAL WORLD DRIVING CYCLE AND ESTIMATION OF ASSOCIATED EMISSIONS
 
 A Project under Associate Professor Dr. Abhishek Mudgal
 
