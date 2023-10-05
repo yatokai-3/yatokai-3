@@ -63,11 +63,11 @@ This endeavour seamlessly merged theoretical insights with practical application
   <tr>
     <td align="center">
       <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/c22aa1e6-0c4d-46d3-884f-62232a596a56" alt="CAD" width="500">
-      <p>Fig. 1 Rendered View</p>
+      <p>Fig. 1 Developed Driving Cycle of Varanasi</p>
     </td>
     <td align="center">
       <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/5e67638d-a769-40ee-9040-41ff5658e4e5" alt="Mesh" width="500">
-      <p>Fig. 2 Gear Mechanims</p>
+      <p>Fig. 2 .</p>
     </td>
   </tr>
   <tr>
@@ -76,7 +76,7 @@ This endeavour seamlessly merged theoretical insights with practical application
       <p>Fig. 3 End Effector</p>
     </td>
     <td align="center">
-      <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/666b8dc6-9fb3-4cab-9ca9-0a6c1bcd8cc0" alt="Image 4" width="500">
+      <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/6df29df6-10ef-4142-96e5-c9a2a667bb5a" alt="Image 4" width="500">
       <p>Fig. 4 Isometric View</p>
     </td>
   </tr>
