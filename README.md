@@ -16,45 +16,6 @@ My journey in the pursuit of knowledge and excellence has brought me to the este
 </p>
 </div>
 
-## Work Experience
-###  Research Intern  <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/946104ab-ec9a-4bab-85cf-35e9d6a95f9e" alt="IISc" style = "float: right" align=" right" width ="100"> 
-#### Robert Bosch Centre for Cyber-Physical Systems(RBCCPS), Indian Institute of Science
-
-
- 
-
-
-📅 Duration: May'23 - Jul'23
-
-*🔧 Description:*
-
-- *Comprehensive Kinematics Analysis:* Profoundly delved into the intricacies of gearbox kinematics, conducting an exhaustive assessment of pivotal parameters encompassing Gear Ratio, Face Width, and Modulus.
-
-- *Python Program for Optimization:* Developed a sophisticated Python program tailored to optimize the number of gear teeth. This innovative solution enabled achieving an extraordinary gear ratio reaching an impressive high of *32.6*.
-
-- *Weight Reduction through Precision:* Spearheaded an impactful initiative to augment gearbox efficiency. By meticulously optimizing the face width of the existing STOCH 3 gearbox, I realized a significant weight reduction of *20%*.
-
-This immersive research internship positioned me at the nexus of theoretical understanding and hands-on implementation, driving me to continually seek novel solutions within the realm of mechanical design.<table>
-<td>
-  <tr>
-    <img src = "https://github.com/anshhuman-chaurasia/About-me/assets/96232817/6dc43e6f-2f0d-4f85-810b-8140afefb3d0"width="500">
-    <p>STOCH 3, STOCH LAB, IISc</p>
-  </tr>
-  <tr>
-    
-https://github.com/anshhuman-chaurasia/About-me/assets/96232817/e41d5419-b887-4760-a1c6-24433934f503
-    
-  </tr>
-</td>  
-</table>
-<!--<video width="320" height="240" controls>
-  <source src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/e4a08660-3cf9-44a7-99f2-f548fbb1a655" type="video/mp4">
-Your browser does not support the video tag.
-</video>
--->
-
-
-
 
 ## Projects
 
@@ -71,8 +32,6 @@ Integrated User Interface: I designed a GUI using Python, effectively displaying
 Seamless Data Collection & Transmission: Leveraging sensors for raw data capture, the system employs an Arduino for data manipulation, ensuring accurate and efficient I2C communication with the Raspberry Pi for real-time updates.
 
 Optimized Driving Strategy: By presenting essential metrics such as RPM and electric current flow, drivers are equipped with the information they need to adapt their driving patterns, ultimately boosting vehicular efficiency and road safety.
-
-
 
 
 
@@ -103,7 +62,7 @@ This endeavour seamlessly merged theoretical insights with practical application
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/8a492a95-29a5-4b66-805c-4f7c92f61709" alt="CAD" width="500">
+      <img src="![Screenshot 2023-10-05 193856](https://github.com/yatokai-3/yatokai-3/assets/111629438/7c369d47-bf0c-47de-b76a-bb55dd247e41)" alt="CAD" width="500">
       <p>Created to-scale CAD model of mirroring real-life dimensions. </p>
     </td>
     <td align="center">
