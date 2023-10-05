@@ -62,22 +62,12 @@ This endeavour seamlessly merged theoretical insights with practical application
 <table>
   <tr>
     <td align="center">
-      <img src="![Screenshot 2023-10-05 193856](https://github.com/yatokai-3/yatokai-3/assets/111629438/7c369d47-bf0c-47de-b76a-bb55dd247e41)" alt="CAD" width="500">
+      <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/7c369d47-bf0c-47de-b76a-bb55dd247e41" alt="CAD" width="500">
       <p>Created to-scale CAD model of mirroring real-life dimensions. </p>
     </td>
     <td align="center">
       <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/b707d019-c804-42da-8e85-0aca4c9a135f" alt="Mesh" width="500">
       <p>Meshing of the CAD</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-     <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/7d271522-cd50-4de8-8adf-6963e871ee4c" alt="Image 4" width="500">
-      <p>Path Line of Particle</p>
-    </td>
-    <td align="center">
-      <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/cfdd6603-b0f3-442d-acb1-1f0c90584658" alt="Image 4" width="500">
-      <p>Velocity Vector</p>
     </td>
   </tr>
 </table>
