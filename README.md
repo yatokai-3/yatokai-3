@@ -69,6 +69,10 @@ This endeavour seamlessly merged theoretical insights with practical application
       <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/5b54a614-3077-4090-b3a3-f1830486dce1" alt="Mesh" width="500">
       <p>Meshing of the CAD</p>
     </td>
+     <td align="center">
+      <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/5b54a614-3077-4090-b3a3-f1830486dce1" alt="Mesh" width="500">
+      <p>Meshing of the CAD</p>
+    </td>
   </tr>
 </table>
 
