@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="" alt="Arya" width="300" height="277.67" style = "float: right" align="right">
+  <img src=" https://github.com/yatokai-3/yatokai-3/assets/111629438/f05939cf-7ba3-454f-b8b5-1e33684447e0" alt="Arya" width="250" height="277.67" style = "float: right" align="right">
   <p>
    
 ## About Me
