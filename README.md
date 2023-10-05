@@ -12,7 +12,7 @@ I'm *Aryasen Gupta*
 
 Hailing from Allahabad, India, I have always been captivated by the profound principles of mechanics and their practical applications in our daily lives.
 
-My journey in the pursuit of knowledge and excellence has brought me to the esteemed *Indian Institute of Technology (BHU), Varanasi* with a legacy dating back before India's independence, has provided me with an exceptional platform to nurture my dreams and aspirations., where I am currently a third-year student majoring in Mechanical Engineering. 
+My journey in the pursuit of knowledge and excellence has brought me to the esteemed *Indian Institute of Technology (BHU), Varanasi* with a legacy dating back before India's independence, has provided me with an exceptional platform to nurture my dreams and aspirations., where I am currently a third-year student majoring in Civil Engineering. 
 </p>
 </div>
 
@@ -61,16 +61,16 @@ Your browser does not support the video tag.
 ### Team Averera 
 
 
-*📅 Duration:* Nov'22 - present
+*📅 Duration:* Nov'22 - July'23
 
 
-*🔧 Description:* 
+*📟 Description:* 
 
-Designed Formula Student Car Chassis: 
+Integrated User Interface: I designed a GUI using Python, effectively displaying real-time vehicular data on an LCD connected to a Raspberry Pi, enhancing the driver's interaction and understanding of their vehicle's performance.
 
-Conducted FEA in Ansys: Employed finite element analysis (FEA) techniques within Ansys to thoroughly assess the chassis design. Notably, this process achieved a significant 15% weight reduction and a substantial 97% increase in strength, enhancing overall performance and safety margins.
+Seamless Data Collection & Transmission: Leveraging sensors for raw data capture, the system employs an Arduino for data manipulation, ensuring accurate and efficient I2C communication with the Raspberry Pi for real-time updates.
 
-Chassis Fabrication Expertise: Utilized AISI1018 steel pipes for chassis fabrication, employing advanced techniques such as arc welding. Employed meticulous attention to detail by incorporating pipe end profiling and fixtures to ensure precision during fabrication.
+Optimized Driving Strategy: By presenting essential metrics such as RPM and electric current flow, drivers are equipped with the information they need to adapt their driving patterns, ultimately boosting vehicular efficiency and road safety.
 
 
 
@@ -78,24 +78,23 @@ Chassis Fabrication Expertise: Utilized AISI1018 steel pipes for chassis fabrica
 
 ---
 
-### Design and Development of Laboratory-Scale Tornado Simulator
+### Development of driving cycle and estimation of associated emmissions
 
-A Project by BRNS under Associate Professor Dr. Arnab Sarkar
+A Project under Associate Professor Dr. Abhishek Mudgal
 
-*📅 Duration:*  Jan ’23-Mar ’23
+*📅 Duration:*  Jan ’23-May ’23
 
 *🔧 Description:*
 
-- Orchestrated the creation of a cutting-edge tornado simulator for structural vulnerability testing.
-- Crafted an innovative approach utilizing guided airflow to induce a swirling effect, accurately mimicking tornado conditions.
+-Advanced Programming for Data Analysis: Leveraged Python with Matplotlib, NumPy, Pandas, and Glob to analyze real-world driving cycle data, calculating vital parameters such as average speed, acceleration, idling, and cruising.
 
-- Executed detailed ANSYS Fluent analyses to visualize the intricate pressure, velocity, and vorticity distribution within the simulated tornado formation.
-  - Simulated *150* tornado formation scenarios to comprehensively analyze pressure and velocity gradients.
-  - Generated *3D models* with *5 million mesh cells* for precise representation of tornado characteristics.
+-Micro-Trip Integration: Strategically derived micro-trips from speed-time profiles and seamlessly integrated them to construct a comprehensive driving cycle.
 
-- Fabricated a physical model of the tornado simulator, achieving *95% accuracy* in results as compared to simulated values.
-  - Conducted *30 tests* on the physical model to validate simulation accuracy.
-  - Implemented a new design incorporating thermal factors, enhancing the realism of tornado formation.
+-Comparative Benchmarking: Benchmarked Varanasi's driving cycle against IDC and EUDC, uncovering a notable 5.11% speed increase from IDC and a stark 101.99% decrease from EUDC, directing pivotal vehicle performance optimizations.
+
+-Emission Impact Analysis: Employed the city's developed driving cycle to assess crucial pollutants (CO, NOx, CO2), shedding light on the potential environmental ramifications within urban settings.
+
+-Emission Data Generation: Through precision parameter matching and specialized modeling, derived emission data to understand the broader environmental impact of real-world driving cycles.
 
 This endeavour seamlessly merged theoretical insights with practical application, exemplifying my commitment to pushing the boundaries of engineering knowledge.
 
