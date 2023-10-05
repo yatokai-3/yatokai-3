@@ -85,27 +85,18 @@ Optimized Driving Strategy: By presenting essential metrics such as RPM and elec
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/a27670ef-23aa-482c-9211-5daeb2523c31" alt="CAD" width="500">
-      <p>Fig. 1 Rendered View</p>
+      <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/d4519c1c-9876-4404-897b-04f05f20e068" alt="CAD" width="500">
+      <p>Fig. 1 Dashboard Display</p>
     </td>
     <td align="center">
-      <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/d587ee89-2099-49be-9e55-cba5d76d0523" alt="Mesh" width="500">
+      <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/40acc4dd-8f14-4e08-9fa9-7202a44f695b" alt="Mesh" width="500">
       <p>Fig. 2 Gear Mechanims</p>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-     <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/3584121b-eb99-4da9-9ac3-e2ed29ee8deb" alt="Image 4" width="500">
-      <p>Fig. 3 End Effector</p>
-    </td>
-    <td align="center">
-      <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/666b8dc6-9fb3-4cab-9ca9-0a6c1bcd8cc0" alt="Image 4" width="500">
-      <p>Fig. 4 Isometric View</p>
-    </td>
-  </tr>
+  
 </table>
 
-https://github.com/anshhuman-chaurasia/About-me/assets/96232817/e18ede0d-8d3f-45e6-8ba1-452ef6c70388
+
 
 
 
