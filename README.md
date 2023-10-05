@@ -10,7 +10,7 @@ I'm *Aryasen Gupta*
 
 
 
-Hailing from Allahabad, India, I have always been captivated by the profound principles of mechanics and their practical applications in our daily lives.
+Hailing from Allahabad, India, I have always been captivated by the profound principles of Civil and their practical applications in our daily lives.
 
 My journey in the pursuit of knowledge and excellence has brought me to the esteemed *Indian Institute of Technology (BHU), Varanasi* with a legacy dating back before India's independence, has provided me with an exceptional platform to nurture my dreams and aspirations., where I am currently a third-year student majoring in Civil Engineering. 
 </p>
