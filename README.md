@@ -104,25 +104,11 @@ Optimized Driving Strategy: By presenting essential metrics such as RPM and elec
     </td>
   </tr>
 </table>
-<!--
-![Robotic arm 3](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/d587ee89-2099-49be-9e55-cba5d76d0523)
-![Robotic arm 2](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/3584121b-eb99-4da9-9ac3-e2ed29ee8deb)
-![Robotic arm 1](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/a27670ef-23aa-482c-9211-5daeb2523c31)
-![isometric-view](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/666b8dc6-9fb3-4cab-9ca9-0a6c1bcd8cc0)
--->
 
 https://github.com/anshhuman-chaurasia/About-me/assets/96232817/e18ede0d-8d3f-45e6-8ba1-452ef6c70388
 
 
 
-<!--
-
-![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/8a492a95-29a5-4b66-805c-4f7c92f61709)
-![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/b707d019-c804-42da-8e85-0aca4c9a135f)
-![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/7d271522-cd50-4de8-8adf-6963e871ee4c)
-![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/cfdd6603-b0f3-442d-acb1-1f0c90584658)
-![image](https://github.com/anshhuman-chaurasia/About-me/assets/96232817/8db5b4c3-cd50-40ae-a55c-d4690737c683)
--->
 
 
 
