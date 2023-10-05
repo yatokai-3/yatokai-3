@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/f05939cf-7ba3-454f-b8b5-1e33684447e0" alt="Arya" width="250" height="277.67" style = "float: right" align="right">
+  <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/587fa4ff-c253-4c65-b89c-f8e8352f7d87" alt="Arya" width="300" height="277.67" style = "float: right" align="right">
   <p>
    
 ## About Me
@@ -94,7 +94,8 @@ This endeavour seamlessly merged theoretical insights with practical application
 </table>
 
 ## Skills
-- 🛠️ AutoCAD, Fusion 360, MATLAB
+- 🛠️ AutoCAD, MATLAB
+- 📟 Fusion 360, Proteus, Arduino IDE
 - 💻 Programming (C++, Python)
 
 ## Contact Me
