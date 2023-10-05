@@ -67,17 +67,17 @@ This endeavour seamlessly merged theoretical insights with practical application
     </td>
     <td align="center">
       <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/5e67638d-a769-40ee-9040-41ff5658e4e5" alt="Mesh" width="500">
-      <p>Fig. 2 .</p>
+      <p>Fig. 2 European Driving Cycle(EUDC)</p>
     </td>
   </tr>
   <tr>
     <td align="center">
      <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/5b54a614-3077-4090-b3a3-f1830486dce1" alt="Image 4" width="500">
-      <p>Fig. 3 End Effector</p>
+      <p>Fig. 3 Comparison between the vehicular parameters of varanasi and standard driving cycle.</p>
     </td>
     <td align="center">
       <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/6df29df6-10ef-4142-96e5-c9a2a667bb5a" alt="Image 4" width="500">
-      <p>Fig. 4 Isometric View</p>
+      <p>Fig. 4 Comparison between the emission parameters of varanasi and standard driving cycle.</p>
     </td>
   </tr>
 </table>
