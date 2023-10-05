@@ -66,7 +66,7 @@ This endeavour seamlessly merged theoretical insights with practical application
       <p>Created to-scale CAD model of mirroring real-life dimensions. </p>
     </td>
     <td align="center">
-      <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/b707d019-c804-42da-8e85-0aca4c9a135f" alt="Mesh" width="500">
+      <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/5b54a614-3077-4090-b3a3-f1830486dce1" alt="Mesh" width="500">
       <p>Meshing of the CAD</p>
     </td>
   </tr>
