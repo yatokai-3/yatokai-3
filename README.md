@@ -62,21 +62,25 @@ This endeavour seamlessly merged theoretical insights with practical application
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/7c369d47-bf0c-47de-b76a-bb55dd247e41" alt="CAD" width="500">
-      <p>Created to-scale CAD model of mirroring real-life dimensions. </p>
+      <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/a27670ef-23aa-482c-9211-5daeb2523c31" alt="CAD" width="500">
+      <p>Fig. 1 Rendered View</p>
     </td>
     <td align="center">
-      <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/5b54a614-3077-4090-b3a3-f1830486dce1" alt="Mesh" width="500">
-      <p>Meshing of the CAD</p>
+      <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/d587ee89-2099-49be-9e55-cba5d76d0523" alt="Mesh" width="500">
+      <p>Fig. 2 Gear Mechanims</p>
     </td>
-     <td align="center">
-      <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/5b54a614-3077-4090-b3a3-f1830486dce1" alt="Mesh" width="500">
-      <p>Meshing of the CAD</p>
+  </tr>
+  <tr>
+    <td align="center">
+     <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/3584121b-eb99-4da9-9ac3-e2ed29ee8deb" alt="Image 4" width="500">
+      <p>Fig. 3 End Effector</p>
+    </td>
+    <td align="center">
+      <img src="https://github.com/anshhuman-chaurasia/About-me/assets/96232817/666b8dc6-9fb3-4cab-9ca9-0a6c1bcd8cc0" alt="Image 4" width="500">
+      <p>Fig. 4 Isometric View</p>
     </td>
   </tr>
 </table>
-
-
 ---
 
 
