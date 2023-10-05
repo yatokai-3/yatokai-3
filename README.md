@@ -86,25 +86,12 @@ Optimized Driving Strategy: By presenting essential metrics such as RPM and elec
   <tr>
     <td align="center">
       <a href="https://github.com/yatokai-3/yatokai-3/assets/111629438/d4519c1c-9876-4404-897b-04f05f20e068">
-        <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/d4519c1c-9876-4404-897b-04f05f20e068" alt="CAD" width="500">
+        <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/d4519c1c-9876-4404-897b-04f05f20e068" alt="CAD" width="300">
       </a>
       <p>Fig. 1 Dashboard Display</p>
     </td>
-    <td align="center">
-      <a href="https://github.com/yatokai-3/yatokai-3/assets/111629438/40acc4dd-8f14-4e08-9fa9-7202a44f695b">
-        <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/video-thumbnail.jpg" alt="Video Thumbnail" width="500">
-      </a>
-      <p>Fig. 2 Gear Mechanism Video</p>
-    </td>
   </tr>
 </table>
-
-
-
-
-
-
-
 
 ## Skills
 
@@ -116,9 +103,9 @@ Optimized Driving Strategy: By presenting essential metrics such as RPM and elec
 
 ## Contact Me
 
-📧 Email: [anshuman.chaurasia.mec21@iitbhu.ac.in](mailto:anshuman.chaurasia.mec21@iitbhu.ac.in)
+📧 Email: [aryasen.gupta.civ21@iitbhu.ac.in](mailto:aryasen.gupta.civ21@iitbhu.ac.in)
 🔗 LinkedIn: [linkedin.com/in/anshuman-chaurasia/](linkedin.com/in/anshuman-chaurasia/)
-📞 Phone: [+91-930-711-8469](tel:+919307118469)
+📞 Phone: [6392814797](tel:6392814797)
 <!--
 # About Me
 
