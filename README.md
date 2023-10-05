@@ -19,22 +19,6 @@ My journey in the pursuit of knowledge and excellence has brought me to the este
 
 ## Projects
 
-### Team Averera 
-
-
-*📅 Duration:* Nov'22 - July'23
-
-
-*📟 Description:* 
-
-Integrated User Interface: I designed a GUI using Python, effectively displaying real-time vehicular data on an LCD connected to a Raspberry Pi, enhancing the driver's interaction and understanding of their vehicle's performance.
-
-Seamless Data Collection & Transmission: Leveraging sensors for raw data capture, the system employs an Arduino for data manipulation, ensuring accurate and efficient I2C communication with the Raspberry Pi for real-time updates.
-
-Optimized Driving Strategy: By presenting essential metrics such as RPM and electric current flow, drivers are equipped with the information they need to adapt their driving patterns, ultimately boosting vehicular efficiency and road safety.
-
-
-
 ---
 
 ### Development of driving cycle and estimation of associated emmissions
@@ -83,44 +67,19 @@ This endeavour seamlessly merged theoretical insights with practical application
 </table>
 ---
 
-
-### Integrating Art of Origami in Structural Mechanics
-
-Engaged in an exploratory project guided by Associate Professor [Dr. Amit Tyagi]([[url](https://www.iitbhu.ac.in/dept/mec/people/arnabmec)])
+### Team Averera 
 
 
-*📅 Duration:*  Jan ’23-Mar ’23
-
-*🔧 Description:*
+*📅 Duration:* Nov'22 - July'23
 
 
-• Spearheaded the creation of pioneering Origami structures engineered with a unique negative Poisson's ratio. This revolutionary design facilitated the absorption and even distribution of impact forces.
+*📟 Description:* 
 
-• Conducted a rigorous exploration of the practical applications of these structures, primarily focusing on mitigating the adverse effects of sudden jerks. Of particular interest was their potential to enhance the resilience of quadruped robots, which are highly susceptible to actuator damage due to abrupt movements.
+Integrated User Interface: I designed a GUI using Python, effectively displaying real-time vehicular data on an LCD connected to a Raspberry Pi, enhancing the driver's interaction and understanding of their vehicle's performance.
 
-This exploration seamlessly harmonized theoretical innovation with the potential for tangible impact, a testament to my commitment to advancing engineering knowledge and practical solutions.
+Seamless Data Collection & Transmission: Leveraging sensors for raw data capture, the system employs an Arduino for data manipulation, ensuring accurate and efficient I2C communication with the Raspberry Pi for real-time updates.
 
-
-
----
-
-
-### The Robotic Charging Challenge (by Jaguar and Land Rover)
-
-As a pivotal member of the team  to represent IIT BHU for [Inter IIT Tech Meet 11.0 ]([url](https://interiit-tech.org/))
-
-
-*📅 Duration:*  Jan ’23-Mar ’23
-
-*🔧 Description:*
-
-- *Innovative EV Charging Robotic Arm Design:* Conceptualized and crafted an autonomous robotic arm exclusively dedicated to EV charging. The design showcased complete workspace coverage through strategic link optimization.
-
-- *Efficient Power Transmission System:* Pioneered a distinctive power transmission mechanism amalgamating gears, pulleys, and belts. This intricate setup facilitated impeccable control and efficient energy transfer, underlining my proficiency in precision engineering.
-
-- *Kirigami-Inspired End Effector:* Engineered an end effector ingeniously drawing inspiration from kirigami art. This visionary approach empowered the robotic arm with exceptional flexibility, enabling seamless and omnidirectional socket movement.
-
-My contributions encapsulated innovation, precision, and multidisciplinary engineering, emblematic of my commitment to delivering advanced solutions at the intersection of mechanics and automation.
+Optimized Driving Strategy: By presenting essential metrics such as RPM and electric current flow, drivers are equipped with the information they need to adapt their driving patterns, ultimately boosting vehicular efficiency and road safety.
 
 
 <table>
