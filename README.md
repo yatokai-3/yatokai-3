@@ -4,14 +4,13 @@
    
 ## About Me
 
-I'm *Anshuman Chaurasia*
+I'm *Aryasen Gupta*
 
-🔧 Mechanical Engineer | 💡 Problem Solver | 🚀 Innovator
+⚒️ Civil Engineer | 💡 Problem Solver | 🚀 Innovator
 
 
-I am a passionate mechanical engineer with a love for problem-solving and innovation.
 
-Hailing from Pune, India, I have always been captivated by the profound principles of mechanics and their practical applications in our daily lives.
+Hailing from Allahabad, India, I have always been captivated by the profound principles of mechanics and their practical applications in our daily lives.
 
 My journey in the pursuit of knowledge and excellence has brought me to the esteemed *Indian Institute of Technology (BHU), Varanasi* with a legacy dating back before India's independence, has provided me with an exceptional platform to nurture my dreams and aspirations., where I am currently a third-year student majoring in Mechanical Engineering. 
 </p>
@@ -59,15 +58,15 @@ Your browser does not support the video tag.
 
 ## Projects
 
-### Team Trident - Formula Student Car
+### Team Averera 
 
 
-*📅 Duration:* July'22 - Dec'22
+*📅 Duration:* Nov'22 - present
 
 
 *🔧 Description:* 
 
-Designed Formula Student Car Chassis: Spearheaded the design of the Formula Student car chassis, meticulously balancing essential factors including strength, weight reduction, ergonomics, and adherence to safety regulations.
+Designed Formula Student Car Chassis: 
 
 Conducted FEA in Ansys: Employed finite element analysis (FEA) techniques within Ansys to thoroughly assess the chassis design. Notably, this process achieved a significant 15% weight reduction and a substantial 97% increase in strength, enhancing overall performance and safety margins.
 
