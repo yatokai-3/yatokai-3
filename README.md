@@ -85,17 +85,20 @@ Optimized Driving Strategy: By presenting essential metrics such as RPM and elec
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/d4519c1c-9876-4404-897b-04f05f20e068" alt="CAD" width="500">
+      <a href="https://github.com/yatokai-3/yatokai-3/assets/111629438/d4519c1c-9876-4404-897b-04f05f20e068">
+        <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/d4519c1c-9876-4404-897b-04f05f20e068" alt="CAD" width="500">
+      </a>
       <p>Fig. 1 Dashboard Display</p>
     </td>
     <td align="center">
-      <img src="" alt="mesh" width="500">
-      <p>Fig. 2 Gear Mechanims</p>
+      <a href="https://github.com/yatokai-3/yatokai-3/assets/111629438/40acc4dd-8f14-4e08-9fa9-7202a44f695b">
+        <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/video-thumbnail.jpg" alt="Video Thumbnail" width="500">
+      </a>
+      <p>Fig. 2 Gear Mechanism Video</p>
     </td>
   </tr>
-  
 </table>
-https://github.com/yatokai-3/yatokai-3/assets/111629438/40acc4dd-8f14-4e08-9fa9-7202a44f695b
+
 
 
 
