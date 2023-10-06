@@ -1,6 +1,6 @@
-<div align="left">
+<!-- <div align="left">
   <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/587fa4ff-c253-4c65-b89c-f8e8352f7d87" alt="Arya" width="250" height="350" style = "float: right" align="right">
-  <p>
+  <p> -->
    
 ## About Me
 
