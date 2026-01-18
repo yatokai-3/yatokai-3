@@ -1,5 +1,6 @@
-![banner](cbp.jpg)
-# 🚦 Aryasen Gupta
+![banner](gg1.gif)
+
+                                                                                  # 🚦 Aryasen Gupta
 
 **Transportation Engineering | Urban Mobility | EVs & Emissions | Data & Policy**
 
