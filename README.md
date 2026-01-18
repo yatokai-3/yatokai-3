@@ -9,8 +9,9 @@ Civil Engineering undergraduate at **IIT (BHU), Varanasi** with a strong focus o
 I work at the intersection of **traffic engineering, data analytics, and clean mobility**, using real-world datasets to inform better urban and transport decisions.
 
 ---
+![banner](dark_1.gif)
 
-## 🔬 Research & Technical Interests
+## 🔬 Research & Technical Interests 
 - 🚗 Real-world driving cycles & vehicle emissions  
 - ⚡ Electric vehicle adoption & energy efficiency  
 - 🌆 Urban mobility patterns & transport policy evaluation  
