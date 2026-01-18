@@ -1,4 +1,4 @@
-![banner](gg1.gif)
+![banner](wtf.gif)
 
 # 🚦 Aryasen Gupta
 
