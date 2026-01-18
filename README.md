@@ -14,7 +14,7 @@ Civil Engineering undergraduate at IIT (BHU), Varanasi, studying transportation 
     <td width="55%">
       <h3>🔬 Research & Technical Interests</h3>
       <ul>
-        <li>🚗 Real-world driving cycles & vehicle emissions</li>
+        <li> Real-world driving cycles & vehicle emissions</li>
         <li>⚡ Electric vehicle adoption & energy efficiency</li>
         <li>🌆 Urban mobility patterns & transport policy evaluation</li>
         <li>🛰️ Spatio-temporal data analysis (transport & urban indicators)</li>
@@ -61,15 +61,25 @@ Civil Engineering undergraduate at IIT (BHU), Varanasi, studying transportation 
 ## 🧰 Technical Stack
 
 **Programming & Data**
-- Python (NumPy, Pandas, Matplotlib)
-- C++
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-plain.svg" />
+          
+</p>
+
 
 **Engineering Tools**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fusion/fusion-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" />
+             
+</p>
 - MATLAB
 - AutoCAD
-- Fusion 360
 - Proteus
-- Arduino IDE
 
 **Hardware**
 - Arduino
