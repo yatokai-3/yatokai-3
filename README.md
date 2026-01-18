@@ -58,7 +58,7 @@ Civil Engineering undergraduate at IIT (BHU), Varanasi, studying transportation 
 
 ---
 
-## 🧰 Programming Languages, Tools and Hardware
+## :la Programming Languages, Tools and Hardware
 
 <p> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="45" />
@@ -70,15 +70,14 @@ Civil Engineering undergraduate at IIT (BHU), Varanasi, studying transportation 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg"  height="45" />
-          
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="45"  />
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="45"  />     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" height="60" width="70"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="45"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"  height="45"/>
-          
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"  height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="45"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="45"/>
+<img src="https://yt3.ggpht.com/-CWtkVw5As6M/AAAAAAAAAAI/AAAAAAAAAAA/3HtERh0dF-4/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" height="45"/>
+                
 </p>
   
 
