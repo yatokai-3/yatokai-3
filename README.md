@@ -2,20 +2,27 @@
 
 <h1 align="center"> Hi!! I'm Aryasen Gupta</h1>
 
-Civil Engineering undergraduate at **IIT (BHU), Varanasi** with a strong focus on  
-**transportation systems, real-world mobility data, vehicle emissions, and sustainable transport policy**.
-
-I work at the intersection of **traffic engineering, data analytics, and clean mobility**, using real-world datasets to inform better urban and transport decisions.
+Civil Engineering undergraduate at IIT (BHU), Varanasi, studying transportation systems, real-world mobility data, and emissions—because traffic rarely follows the theory.
 
 ---
-![banner](dark_1.gif)
 
-## 🔬 Research & Technical Interests 
-- 🚗 Real-world driving cycles & vehicle emissions  
-- ⚡ Electric vehicle adoption & energy efficiency  
-- 🌆 Urban mobility patterns & transport policy evaluation  
-- 🛰️ Spatio-temporal data analysis (transport & urban indicators)  
-- 📊 Applied data science for transportation systems  
+<table>
+  <tr>
+    <td width="45%">
+      <img src="v1.gif" />
+    </td>
+    <td width="55%">
+      <h3>🔬 Research & Technical Interests</h3>
+      <ul>
+        <li>🚗 Real-world driving cycles & vehicle emissions</li>
+        <li>⚡ Electric vehicle adoption & energy efficiency</li>
+        <li>🌆 Urban mobility patterns & transport policy evaluation</li>
+        <li>🛰️ Spatio-temporal data analysis (transport & urban indicators)</li>
+        <li>📊 Applied data science for transportation systems</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
