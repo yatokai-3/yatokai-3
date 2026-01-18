@@ -4,6 +4,14 @@
 
 Civil Engineering undergraduate at IIT (BHU), Varanasi, studying transportation systems, real-world mobility data, and emissions—because traffic rarely follows the theory.
 
+
+
+
+
+
+
+
+
 ---
 
 <table>
@@ -28,21 +36,36 @@ Civil Engineering undergraduate at IIT (BHU), Varanasi, studying transportation 
 
 ## 🚀 Featured Projects
 
-### 🛣️ Development of a Real-World Driving Cycle (Varanasi)
-**Guide:** Dr. Abhishek Mudgal  
-**Duration:** Jan 2023 – May 2023  
+<table>
+  <tr>
+    <td width="40%" align="center">
+      <img src="assets/driving-cycle.gif" width="100%" />
+      <br/>
+      <sub><b>Varanasi Real-World Driving Cycle</b></sub>
+    </td>
+    <td width="60%" valign="middle">
+      <h3>🛣️ Development of a Real-World Driving Cycle (Varanasi)</h3>
+      <b>Guide:</b> Dr. Abhishek Mudgal<br/>
+      <b>Duration:</b> Jan 2023 – May 2023
+      <br/><br/>
+      <ul>
+        <li>Developed a <b>city-specific driving cycle</b> using real-world speed–time data</li>
+        <li>Extracted and integrated <b>micro-trips</b> to capture true urban driving behavior</li>
+        <li>Benchmarked against <b>IDC</b> and <b>EUDC</b>, revealing:</li>
+        <ul>
+          <li><b>+5.11%</b> average speed vs IDC</li>
+          <li><b>–101.99%</b> vs EUDC, highlighting urban congestion effects</li>
+        </ul>
+        <li>Estimated emissions (<b>CO, NOx, CO₂</b>) using parameter-matched emission modeling</li>
+        <li>Provided insights for <b>vehicle performance optimization</b> and <b>urban emission assessment</b></li>
+      </ul>
+      <b>Tech:</b> Python, NumPy, Pandas, Matplotlib
+      <br/><br/>
+      🔗 <i>Repository coming soon</i>
+    </td>
+  </tr>
+</table>
 
-- Developed a **city-specific driving cycle** using real-world speed–time data  
-- Extracted and integrated **micro-trips** to reflect true urban driving behavior  
-- Benchmarked against **IDC and EUDC**, revealing:
-  - **+5.11%** average speed vs IDC  
-  - **–101.99%** vs EUDC (highlighting urban congestion effects)  
-- Estimated emissions (**CO, NOx, CO₂**) using parameter-matched emission modeling  
-- Provided insights for **vehicle performance optimization and urban emission assessment**
-
-**Tech:** Python, NumPy, Pandas, Matplotlib
-
-🔗 *Repository coming soon*  
 
 ---
 
@@ -58,7 +81,7 @@ Civil Engineering undergraduate at IIT (BHU), Varanasi, studying transportation 
 
 ---
 
-## :la Programming Languages, Tools and Hardware
+##  Programming Languages, Tools and Hardware
 
 <p> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="45" />
