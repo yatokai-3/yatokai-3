@@ -1,8 +1,6 @@
 ![banner](robo.gif)
 
-# 🚦 Aryasen Gupta
-
-**Transportation Engineering | Urban Mobility | EVs & Emissions | Data & Policy**
+<h1 align="center"> Hi!! I'm Aryasen Gupta</h1>
 
 Civil Engineering undergraduate at **IIT (BHU), Varanasi** with a strong focus on  
 **transportation systems, real-world mobility data, vehicle emissions, and sustainable transport policy**.
