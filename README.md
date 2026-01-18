@@ -1,105 +1,82 @@
-<!-- <div align="left">
-  <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/587fa4ff-c253-4c65-b89c-f8e8352f7d87" alt="Arya" width="250" height="350" style = "float: right" align="right">
-  <p> -->
-   
-## About Me
+# 🚦 Aryasen Gupta
 
-I'm *Aryasen Gupta*
+**Transportation Engineering | Urban Mobility | EVs & Emissions | Data & Policy**
 
-⚒️ Civil Engineer | 💡 Problem Solver | 🚀 Innovator
+Civil Engineering undergraduate at **IIT (BHU), Varanasi** with a strong focus on  
+**transportation systems, real-world mobility data, vehicle emissions, and sustainable transport policy**.
 
-
-
-Hailing from Allahabad, India, I have always been captivated by the profound principles of Civil and their practical applications in our daily lives.
-
-My journey in the pursuit of knowledge and excellence has brought me to the esteemed *Indian Institute of Technology (BHU), Varanasi* with a legacy dating back before India's independence, has provided me with an exceptional platform to nurture my dreams and aspirations., where I am currently a third-year student majoring in Civil Engineering. 
-</p>
-</div>
-
-
-## Projects
+I work at the intersection of **traffic engineering, data analytics, and clean mobility**, using real-world datasets to inform better urban and transport decisions.
 
 ---
 
-### DEVELOPMENT OF REAL WORLD DRIVING CYCLE AND ESTIMATION OF ASSOCIATED EMISSIONS
+## 🔬 Research & Technical Interests
+- 🚗 Real-world driving cycles & vehicle emissions  
+- ⚡ Electric vehicle adoption & energy efficiency  
+- 🌆 Urban mobility patterns & transport policy evaluation  
+- 🛰️ Spatio-temporal data analysis (transport & urban indicators)  
+- 📊 Applied data science for transportation systems  
 
-A Project under Associate Professor Dr. Abhishek Mudgal
-
-*📅 Duration:*  Jan ’23-May ’23
-
-*🔧 Description:*
-
--Advanced Programming for Data Analysis: Leveraged Python with Matplotlib, NumPy, Pandas, and Glob to analyze real-world driving cycle data, calculating vital parameters such as average speed, acceleration, idling, and cruising.
-
--Micro-Trip Integration: Strategically derived micro-trips from speed-time profiles and seamlessly integrated them to construct a comprehensive driving cycle.
-
--Comparative Benchmarking: Benchmarked Varanasi's driving cycle against IDC and EUDC, uncovering a notable 5.11% speed increase from IDC and a stark 101.99% decrease from EUDC, directing pivotal vehicle performance optimizations.
-
--Emission Impact Analysis: Employed the city's developed driving cycle to assess crucial pollutants (CO, NOx, CO2), shedding light on the potential environmental ramifications within urban settings.
-
--Emission Data Generation: Through precision parameter matching and specialized modeling, derived emission data to understand the broader environmental impact of real-world driving cycles.
-
-This endeavour seamlessly merged theoretical insights with practical application, exemplifying my commitment to pushing the boundaries of engineering knowledge.
-
-
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/c22aa1e6-0c4d-46d3-884f-62232a596a56" alt="CAD" width="500">
-      <p>Fig. 1 Developed Driving Cycle of Varanasi</p>
-    </td>
-    <td align="center">
-      <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/5e67638d-a769-40ee-9040-41ff5658e4e5" alt="Mesh" width="500">
-      <p>Fig. 2 European Driving Cycle(EUDC)</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-     <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/5b54a614-3077-4090-b3a3-f1830486dce1" alt="Image 4" width="500">
-      <p>Fig. 3 Comparison between the vehicular parameters of varanasi and standard driving cycle.</p>
-    </td>
-    <td align="center">
-      <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/6df29df6-10ef-4142-96e5-c9a2a667bb5a" alt="Image 4" width="500">
-      <p>Fig. 4 Comparison between the emission parameters of varanasi and standard driving cycle.</p>
-    </td>
-  </tr>
-</table>
 ---
 
-### Team Averera 
+## 🚀 Featured Projects
 
+### 🛣️ Development of a Real-World Driving Cycle (Varanasi)
+**Guide:** Dr. Abhishek Mudgal  
+**Duration:** Jan 2023 – May 2023  
 
-*📅 Duration:* Nov'22 - July'23
+- Developed a **city-specific driving cycle** using real-world speed–time data  
+- Extracted and integrated **micro-trips** to reflect true urban driving behavior  
+- Benchmarked against **IDC and EUDC**, revealing:
+  - **+5.11%** average speed vs IDC  
+  - **–101.99%** vs EUDC (highlighting urban congestion effects)  
+- Estimated emissions (**CO, NOx, CO₂**) using parameter-matched emission modeling  
+- Provided insights for **vehicle performance optimization and urban emission assessment**
 
+**Tech:** Python, NumPy, Pandas, Matplotlib
 
-*📟 Description:* 
+🔗 *Repository coming soon*  
 
--Integrated User Interface: I designed a GUI using Python, effectively displaying real-time vehicular data on an LCD connected to a Raspberry Pi, enhancing the driver's interaction and understanding of their vehicle's performance.
+---
 
--Seamless Data Collection & Transmission: Leveraging sensors for raw data capture, the system employs an Arduino for data manipulation, ensuring accurate and efficient I2C communication with the Raspberry Pi for real-time updates.
+### ⚡ Team AVERERA – Electric Vehicle Systems (Shell Eco-Marathon)
+**Duration:** Nov 2022 – Jul 2023  
 
--Optimized Driving Strategy: By presenting essential metrics such as RPM and electric current flow, drivers are equipped with the information they need to adapt their driving patterns, ultimately boosting vehicular efficiency and road safety.
+- Designed a **real-time vehicle dashboard** using Python on Raspberry Pi  
+- Integrated **Arduino-based sensor systems** for live data acquisition  
+- Implemented **I²C communication** for reliable microcontroller-to-processor data flow  
+- Displayed key metrics (RPM, current, efficiency) to support **energy-efficient driving strategies**
 
+**Tech:** Python, Arduino, Raspberry Pi, Embedded Systems
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/yatokai-3/yatokai-3/assets/111629438/d4519c1c-9876-4404-897b-04f05f20e068">
-        <img src="https://github.com/yatokai-3/yatokai-3/assets/111629438/d4519c1c-9876-4404-897b-04f05f20e068" alt="CAD" width="300">
-      </a>
-      <p>Fig. 1 Dashboard Display</p>
-    </td>
-  </tr>
-</table>
+---
 
-## Skills
-- 🛠️ AutoCAD, MATLAB
-- 📟 Fusion 360, Proteus, Arduino IDE
-- 💻 Programming (C++, Python)
+## 🧰 Technical Stack
 
-## Contact Me
+**Programming & Data**
+- Python (NumPy, Pandas, Matplotlib)
+- C++
 
-📧 Email: [aryasen.gupta.civ21@iitbhu.ac.in](mailto:aryasen.gupta.civ21@iitbhu.ac.in)
-🔗 LinkedIn: [https://www.linkedin.com/in/arya-sen-g-10650a194/]
-📞 Phone: [6392814797](tel:+91-6392814797)
+**Engineering Tools**
+- MATLAB
+- AutoCAD
+- Fusion 360
+- Proteus
+- Arduino IDE
+
+**Hardware**
+- Arduino
+- Raspberry Pi
+- Sensor integration & data acquisition
+
+---
+
+## 📌 Current Focus
+- Expanding research on **EV & alternative fuel adoption trends**
+- Applying **urban data sources** to analyze transport demand and policy impacts
+- Preparing for **graduate studies in Transportation Systems (Europe)**
+
+---
+
+## 📫 Connect
+- 📧 Email: aryasen.gupta.civ21@iitbhu.ac.in  
+- 🔗 LinkedIn: https://www.linkedin.com/in/arya-sen-g-10650a194/
