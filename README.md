@@ -93,7 +93,7 @@ Civil Engineering undergraduate at IIT (BHU), Varanasi, studying transportation 
 
   <br/><br/>
 
-  <img src="d1.png" width="100%" />
+  <img src="d1.png" width="100%" height="100"/>
   <br/>
   <sub><b><h3>DNT Dashboard</h3></b></sub>
 </td>
