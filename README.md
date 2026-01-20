@@ -17,7 +17,7 @@ Civil Engineering undergraduate at IIT (BHU), Varanasi, studying transportation 
         <li> Real-world driving cycles & vehicle emissions</li>
         <li>⚡ Electric vehicle adoption & energy efficiency</li>
         <li>🌆 Urban mobility patterns & transport policy evaluation</li>
-        <li>🛰️ Spatio-temporal data analysis (transport & urban indicators)</li>
+        <li>🛰️ Spatio-temporal data analysis (transport & urban indicators)</li>      
         <li>📊 Applied data science for transportation systems</li>
       </ul>
     </td>
@@ -89,13 +89,13 @@ Civil Engineering undergraduate at IIT (BHU), Varanasi, studying transportation 
 <td width="60%" align="center">
   <img src="avr_side.jpeg" width="100%" />
   <br/>
-  <sub><b>Electric Vehicle - SHIVAAY</b></sub>
+  <sub><b><h3>Electric Vehicle - SHIVAAY</h3></b></sub>
 
   <br/><br/>
 
   <img src="d1.png" width="100%" />
   <br/>
-  <sub><b>DNT Dashboard</b></sub>
+  <sub><b><h3>DNT Dashboard</h3></b></sub>
 </td>
 
   </tr>
