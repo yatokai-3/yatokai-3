@@ -86,14 +86,14 @@ Civil Engineering undergraduate at IIT (BHU), Varanasi, studying transportation 
       </p>
     </td>
     
-<td width="40%" align="center">
+<td width="60%" align="center">
   <img src="avr_side.jpeg" width="100%" />
   <br/>
   <sub><b>Electric Vehicle - SHIVAAY</b></sub>
 
   <br/><br/>
 
-  <img src="d1.png" width="90%" />
+  <img src="d1.png" width="100%" />
   <br/>
   <sub><b>DNT Dashboard</b></sub>
 </td>
