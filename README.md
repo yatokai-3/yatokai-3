@@ -4,14 +4,6 @@
 
 Civil Engineering undergraduate at IIT (BHU), Varanasi, studying transportation systems, real-world mobility data, and emissions—because traffic rarely follows the theory.
 
-
-
-
-
-
-
-
-
 ---
 
 <table>
@@ -59,7 +51,12 @@ Civil Engineering undergraduate at IIT (BHU), Varanasi, studying transportation 
         <li>Estimated emissions (<b>CO, NOx, CO₂</b>) using parameter-matched emission modeling</li>
         <li>Provided insights for <b>vehicle performance optimization</b> and <b>urban emission assessment</b></li>
       </ul>
-      <b>Tech:</b> Python, NumPy, Pandas, Matplotlib
+      <b>Tech:</b> <p> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="45" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="45"/> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="45" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="45" />
+      </p>
       <br/><br/>
       🔗 <i>Repository coming soon</i>
     </td>
