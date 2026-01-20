@@ -14,11 +14,10 @@ Civil Engineering undergraduate at IIT (BHU), Varanasi, studying transportation 
     <td width="55%">
       <h3>🔬 Research & Technical Interests</h3>
       <ul>
-        <li> Real-world driving cycles & vehicle emissions</li>
-        <li>⚡ Electric vehicle adoption & energy efficiency</li>
-        <li>🌆 Urban mobility patterns & transport policy evaluation</li>
-        <li>🛰️ Spatio-temporal data analysis (transport & urban indicators)</li>      
-        <li>📊 Applied data science for transportation systems</li>
+        <li>⚡ Transportation systems as complex, data-constrained networks</li>
+        <li>🌆 Vehicle usage, emissions, and policy effects in real conditions</li>
+        <li>🛰️ Spatio-temporal transport data and proxy indicators</li>      
+        <li>📊 Empirical methods for urban mobility research</li>
       </ul>
     </td>
   </tr>
@@ -39,7 +38,7 @@ Civil Engineering undergraduate at IIT (BHU), Varanasi, studying transportation 
 
   <br/><br/>
 
-  <img src="dc.png" width="75%" />
+  <img src="dc.png" width="100%" />
   <br/>
   <sub><b>Driving Cycle Flowchart</b></sub>
 
