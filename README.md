@@ -57,7 +57,7 @@ Civil Engineering undergraduate at IIT (BHU), Varanasi, studying transportation 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="45" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="45" />
       </p>
-      <br/><br/>
+      <br/>
       🔗 <i>Repository coming soon</i>
     </td>
   </tr>
@@ -66,15 +66,32 @@ Civil Engineering undergraduate at IIT (BHU), Varanasi, studying transportation 
 
 ---
 
-### ⚡ Team AVERERA – Electric Vehicle Systems (Shell Eco-Marathon)
-**Duration:** Nov 2022 – Jul 2023  
-
-- Designed a **real-time vehicle dashboard** using Python on Raspberry Pi  
-- Integrated **Arduino-based sensor systems** for live data acquisition  
-- Implemented **I²C communication** for reliable microcontroller-to-processor data flow  
-- Displayed key metrics (RPM, current, efficiency) to support **energy-efficient driving strategies**
-
-**Tech:** Python, Arduino, Raspberry Pi, Embedded Systems
+<table>
+  <tr>
+    <td width="60%" valign="middle">
+      <h3>⚡ Team AVERERA – Electric Vehicle Systems (Shell Eco-Marathon)</h3>
+      <b>Duration:</b> Nov 2022 – Jul 2023
+      <br/><br/>
+      <ul>
+        <li>Designed a <b>real-time vehicle dashboard</b> using Python on Raspberry Pi</li>
+        <li>Integrated <b>Arduino-based sensor systems</b> for live data acquisition</li>
+        <li>Implemented <b>I²C communication</b> for reliable microcontroller-to-processor data flow</li>
+        <li>Displayed key metrics (RPM, current, efficiency) to support <b>energy-efficient driving strategies</b></li>
+      </ul>
+      <b>Tech:</b> <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="45" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" height="45" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="45" />
+        <img src="https://static.vecteezy.com/system/resources/previews/046/283/716/non_2x/embedded-system-and-chip-icon-concept-vector.jpg" height="45" />
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="assets/averera-dashboard.gif" width="100%" />
+      <br/>
+      <sub><b>Real-time EV Dashboard Interface</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
