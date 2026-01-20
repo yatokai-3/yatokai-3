@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi!! I'm Aryasen Gupta</h1>
 
-Civil Engineering graduate from IIT (BHU), Varanasi, studying transportation systems, real-world mobility data, and emissions because traffic refuses to behave optimally.
+Civil Engineering graduate from IIT (BHU), Varanasi, enthusiast for transportation systems, real-world mobility data, and sustainable urban mobility because traffic refuses to behave optimally. Currently working in <b>Evalueserve</b> as an Engineer in the AI Team.
 
 ---
 
@@ -40,7 +40,7 @@ Civil Engineering graduate from IIT (BHU), Varanasi, studying transportation sys
 
   <img src="dc.png" width="100%" />
   <br/>
-  <sub><b>Driving Cycle Flowchart</b></sub>
+  <sub><b>Project Flowchart</b></sub>
 
 </td>
 
@@ -141,18 +141,18 @@ Civil Engineering graduate from IIT (BHU), Varanasi, studying transportation sys
 ---
 
 ## 📌 Current Focus
-- Expanding research on **EV & alternative fuel adoption trends**
-- Applying **urban data sources** to analyse transport demand and policy impacts
+- Exploring the potential of **NTL as a suitable indicator** for measuring car dependency
+- Making agentic flows to automate company workload (using Langflow, SimpleAI, & Co-pilot studio)
 
 ---
 
-## 📫 Connect
+## 📫 Connect with me
 <p align="left">
   <a href="mailto:aryasen.gupta.civ21@iitbhu.ac.in">
     <img src="gmail.png" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/arya-sen-g-10650a194/" target="_blank">
+  <a href="www.linkedin.com/in/aryasen-gupta-213a88321" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" />
   </a>
 </p>
