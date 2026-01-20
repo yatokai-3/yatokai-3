@@ -85,11 +85,19 @@ Civil Engineering undergraduate at IIT (BHU), Varanasi, studying transportation 
         <img src="https://static.vecteezy.com/system/resources/previews/046/283/716/non_2x/embedded-system-and-chip-icon-concept-vector.jpg" height="45" />
       </p>
     </td>
-    <td width="40%" align="center">
-      <img src="assets/averera-dashboard.gif" width="100%" />
-      <br/>
-      <sub><b>Real-time EV Dashboard Interface</b></sub>
-    </td>
+    
+<td width="40%" align="center">
+  <img src="avr_side.jpeg" width="100%" />
+  <br/>
+  <sub><b>Electric Vehicle - SHIVAAY</b></sub>
+
+  <br/><br/>
+
+  <img src="d1.png" width="90%" />
+  <br/>
+  <sub><b>DNT Dashboard</b></sub>
+</td>
+
   </tr>
 </table>
 
