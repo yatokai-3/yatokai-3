@@ -152,7 +152,7 @@ Civil Engineering graduate from IIT (BHU), Varanasi, enthusiast for transportati
     <img src="gmail.png" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="www.linkedin.com/in/aryasen-gupta-213a88321" target="_blank">
+  <a href="[www.linkedin.com/in/aryasen-gupta-213a88321](https://www.linkedin.com/in/aryasen-gupta-213a88321/)" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" />
   </a>
 </p>
