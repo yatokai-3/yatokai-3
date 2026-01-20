@@ -148,12 +148,12 @@ Civil Engineering graduate from IIT (BHU), Varanasi, enthusiast for transportati
 
 ## 📫 Connect with me
 <p align="left">
-  <a href="mailto:aryasen.gupta.civ21@iitbhu.ac.in">
+  <a href="mailto:aryasen.gupta.civ21@itbhu.ac.in">
     <img src="gmail.png" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="[www.linkedin.com/in/aryasen-gupta-213a88321](https://www.linkedin.com/in/aryasen-gupta-213a88321/)" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" />
+  <a href="https://www.linkedin.com/in/aryasen-gupta-213a88321/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" />
   </a>
 </p>
 
