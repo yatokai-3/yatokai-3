@@ -66,8 +66,8 @@ Civil Engineering graduate from IIT (BHU), Varanasi, studying transportation sys
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="45" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="45" />
       </p>
-      <br/>
-      🔗 <i>Repository coming soon</i>
+      <!-- <br/>
+      🔗 <i>Repository coming soon</i> -->
     </td>
   </tr>
 </table>
@@ -149,11 +149,11 @@ Civil Engineering graduate from IIT (BHU), Varanasi, studying transportation sys
 ## 📫 Connect
 <p align="left">
   <a href="mailto:aryasen.gupta.civ21@iitbhu.ac.in">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" height="40" />
+    <img src="gmail.png" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/arya-sen-g-10650a194/" target="_blank">
-      <img src="gmail.png" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" />
   </a>
 </p>
 
