@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi!! I'm Aryasen Gupta</h1>
 
-Civil Engineering undergraduate at IIT (BHU), Varanasi, studying transportation systems, real-world mobility data, and emissions—because traffic rarely follows the theory.
+Civil Engineering graduate from IIT (BHU), Varanasi, studying transportation systems, real-world mobility data, and emissions because traffic refuses to behave optimally.
 
 ---
 
@@ -142,11 +142,18 @@ Civil Engineering undergraduate at IIT (BHU), Varanasi, studying transportation 
 
 ## 📌 Current Focus
 - Expanding research on **EV & alternative fuel adoption trends**
-- Applying **urban data sources** to analyze transport demand and policy impacts
-- Preparing for **graduate studies in Transportation Systems (Europe)**
+- Applying **urban data sources** to analyse transport demand and policy impacts
 
 ---
 
 ## 📫 Connect
-- 📧 Email: aryasen.gupta.civ21@iitbhu.ac.in  
-- 🔗 LinkedIn: https://www.linkedin.com/in/arya-sen-g-10650a194/
+<p align="left">
+  <a href="mailto:aryasen.gupta.civ21@iitbhu.ac.in">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/arya-sen-g-10650a194/" target="_blank">
+      <img src="gmail.png" height="40" />
+  </a>
+</p>
+
