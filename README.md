@@ -30,12 +30,22 @@ Civil Engineering undergraduate at IIT (BHU), Varanasi, studying transportation 
 
 <table>
   <tr>
-    <td width="40%" align="center">
-      <img src="assets/driving-cycle.gif" width="100%" />
-      <br/>
-      <sub><b>Varanasi Real-World Driving Cycle</b></sub>
-    </td>
-    <td width="60%" valign="middle">
+    
+  <td width="50%" align="center">
+
+  <img src="vns.png" width="100%" />
+  <br/>
+  <sub><b>Varanasi Driving Cycle</b></sub>
+
+  <br/><br/>
+
+  <img src="dc.png" width="75%" />
+  <br/>
+  <sub><b>Driving Cycle Flowchart</b></sub>
+
+</td>
+
+<td width="60%" valign="middle">
       <h3>🛣️ Development of a Real-World Driving Cycle (Varanasi)</h3>
       <b>Guide:</b> Dr. Abhishek Mudgal<br/>
       <b>Duration:</b> Jan 2023 – May 2023
@@ -93,14 +103,12 @@ Civil Engineering undergraduate at IIT (BHU), Varanasi, studying transportation 
   <br/> -->
   
   <img src="d1.png" width="100%" />
-  <br/>
-  <sub><b><h3>DNT Dashboard</h3></b></sub>
+  <sub><b>DNT Dashboard</b></sub>
 
   <br/>
 
   <img src="mp.png" width="100%" />
-  <br/>
-  <sub><b><h3> DNT Flowchart</h3></b></sub>
+  <sub><b> DNT Flowchart </b></sub>
 </td>
 
   </tr>
